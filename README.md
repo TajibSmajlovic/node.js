@@ -1,2 +1,1 @@
-# node.js
-The Complete Node.js Developer Course
+#### start date: september 13 2018
