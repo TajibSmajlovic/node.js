@@ -1,0 +1,9 @@
+// Checks is there existing SSH KEYs:    ls -al ~/.ssh
+
+// Generate KEY:                         ssh-keygen -t rsa -b 4096 -C 'your@email.com'
+
+// Start SSH Agent:                      eval "$(ssh-agent -s)"
+
+// Tell SSH Agent where file lives:      ssh-add ~/.ssh/id_rsa
+
+// Rest is done on GitHub...
